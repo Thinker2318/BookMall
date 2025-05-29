@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "鸿蒙书城"
+    },
+    {
+      "name": "login_title",
+      "value": "用户登录"
+    },
+    {
+      "name": "module_desc",
+      "value": "Entry module description"
+    }
+  ]
+}
